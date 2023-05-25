@@ -1,0 +1,15 @@
+C:\Users\Acer Nitro 5\source\repos\Branches_task\Branches_task\bin\Debug\net6.0\Branches_task.exe
+C:\Users\Acer Nitro 5\source\repos\Branches_task\Branches_task\bin\Debug\net6.0\Branches_task.deps.json
+C:\Users\Acer Nitro 5\source\repos\Branches_task\Branches_task\bin\Debug\net6.0\Branches_task.runtimeconfig.json
+C:\Users\Acer Nitro 5\source\repos\Branches_task\Branches_task\bin\Debug\net6.0\Branches_task.dll
+C:\Users\Acer Nitro 5\source\repos\Branches_task\Branches_task\bin\Debug\net6.0\Branches_task.pdb
+C:\Users\Acer Nitro 5\source\repos\Branches_task\Branches_task\obj\Debug\net6.0\Branches_task.csproj.AssemblyReference.cache
+C:\Users\Acer Nitro 5\source\repos\Branches_task\Branches_task\obj\Debug\net6.0\Branches_task.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Acer Nitro 5\source\repos\Branches_task\Branches_task\obj\Debug\net6.0\Branches_task.AssemblyInfoInputs.cache
+C:\Users\Acer Nitro 5\source\repos\Branches_task\Branches_task\obj\Debug\net6.0\Branches_task.AssemblyInfo.cs
+C:\Users\Acer Nitro 5\source\repos\Branches_task\Branches_task\obj\Debug\net6.0\Branches_task.csproj.CoreCompileInputs.cache
+C:\Users\Acer Nitro 5\source\repos\Branches_task\Branches_task\obj\Debug\net6.0\Branches_task.dll
+C:\Users\Acer Nitro 5\source\repos\Branches_task\Branches_task\obj\Debug\net6.0\refint\Branches_task.dll
+C:\Users\Acer Nitro 5\source\repos\Branches_task\Branches_task\obj\Debug\net6.0\Branches_task.pdb
+C:\Users\Acer Nitro 5\source\repos\Branches_task\Branches_task\obj\Debug\net6.0\Branches_task.genruntimeconfig.cache
+C:\Users\Acer Nitro 5\source\repos\Branches_task\Branches_task\obj\Debug\net6.0\ref\Branches_task.dll
